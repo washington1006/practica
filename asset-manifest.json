@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/react/static/css/main.4e051793.css",
-    "main.js": "/react/static/js/main.20ab843e.js",
-    "static/js/787.acb82853.chunk.js": "/react/static/js/787.acb82853.chunk.js",
-    "static/media/logo-dark@8x.png": "/react/static/media/logo-dark@8x.9d37dbd58e05bbc926c3.png",
-    "static/media/logo.svg": "/react/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
-    "index.html": "/react/index.html",
-    "main.4e051793.css.map": "/react/static/css/main.4e051793.css.map",
-    "main.20ab843e.js.map": "/react/static/js/main.20ab843e.js.map",
-    "787.acb82853.chunk.js.map": "/react/static/js/787.acb82853.chunk.js.map"
+    "main.css": "/practica/static/css/main.4e051793.css",
+    "main.js": "/practica/static/js/main.ab190d27.js",
+    "static/js/787.acb82853.chunk.js": "/practica/static/js/787.acb82853.chunk.js",
+    "static/media/logo-dark@8x.png": "/practica/static/media/logo-dark@8x.9d37dbd58e05bbc926c3.png",
+    "static/media/logo.svg": "/practica/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/practica/index.html",
+    "main.4e051793.css.map": "/practica/static/css/main.4e051793.css.map",
+    "main.ab190d27.js.map": "/practica/static/js/main.ab190d27.js.map",
+    "787.acb82853.chunk.js.map": "/practica/static/js/787.acb82853.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4e051793.css",
-    "static/js/main.20ab843e.js"
+    "static/js/main.ab190d27.js"
   ]
 }
