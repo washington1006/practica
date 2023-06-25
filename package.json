@@ -1,8 +1,7 @@
 {
-
   "name": "react",
   "homepage": "https://Washington1006.github.io/practica",
-  "version": "0.3.0",
+  "version": "0.1.0",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
